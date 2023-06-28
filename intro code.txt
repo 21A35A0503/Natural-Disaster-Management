@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  background-color:rgb(180, 250, 136);
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
+}
+h4{
+  font-size: 20px;
+  text-align: center; 
+}
+ div {
+  border: 3px solid #9c1717;
+  padding: 5px;
+  font-size: 25px;
+  font-style: italic;
+  background-color:rgb(180, 250, 136);
+  text-align: center;
+ }
+
+.img2 {
+  float: right;
+}
+
+.img1 {
+  float: left;
+}
+
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <br>
+
+    <h1>Nutrition from herbal plants</h1>
+
+    <br>
+    <br>
+
+     <br>
+     <br>
+    <br>
+    <br>
+
+<div class="clearfix">
+  <h2 style="clear:right">Tulasi</h2>
+  <img class="img2" src="https://5.imimg.com/data5/ZF/KP/NF/SELLER-92077200/lakshmi-tulasi-500x500.jpeg" alt="tulasi" width="400" height="200">
+  Benfits:
+<br>Natural Immunity Booster
+<br>Reduces Fever (antipyretic) & Pain(analgesic)
+<br>Reduces Cold, Cough & Other Respiratory Disorders
+<br>Reduces Stress & Blood Pressure
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Amla</h2>
+    <img class="img1" src="https://media.istockphoto.com/photos/indian-gooseberry-phyllanthus-emblica-picture-id482089175?k=20&m=482089175&s=612x612&w=0&h=B8MbKhTDmqaa8nSPhiXCBJ3nucq44ExA7u33zMBVv5Y=" alt="amla" width="400" height="200">
+    Benfits:
+    <br>Enhances   liver   health
+    <br>Supports   healthy   digestion
+    <br>Promotes   heart   health
+    <br>May   increase   hair   growth
+    <br>Improves   kidney   health
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Moringa</h2>
+    <img class="img2" src="https://i.shgcdn.com/88f28d6c-ee97-46c4-9e32-cfc1f0932fc7/-/format/auto/-/preview/3000x3000/-/quality/lighter/" alt="Moringa" width="400" height="200">
+    Benfits:
+  <br>It's traditionally been used as a remedy for such conditions as:
+  <br>Diabetes , Long-lasting inflammation
+  <br>Bacterial , viral , and fungal infections
+  <br>Joint pain , Heart health  and Cancer
+</div>
+ 
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Konda Pindi / Pashan bhed</h2>
+    <img class="img1" src="https://www.teluguonlinenews.com/wp-content/uploads/2021/06/konda.jpg" alt="kondapindi aaku" width="400" height="200">
+    Benfits:
+  <br>used for the removal of kidney and urinary tract stones
+  <br>due to its antilithic property
+  <br>help in reducing fever due to its antipyretic property 
+  <br>and give relief from cough.
+</div>
+  
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Spikenard</h2>
+    <img class="img2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqi9jXID8mcBvmt1lStabOfs0PP10xtFpzg&usqp=CAU" alt="spikenard" width="400" height="200">
+    Benfits:
+  <br>Fights Bacteria and Fungus
+  <br>Relieves Inflammation
+  <br>Relaxes the Mind and Body
+  <br>Stimulates the Immune System.
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Wheatgrass</h2>
+    <img class="img1" src="https://only-good-stuff.com/images/detailed/9/wheatgrasspowder.JPG" alt="Wheatgrass" width="400" height="200">
+    Health benefits of wheatgrass include:
+  <br>Prevention from Cancer,Fights Infections
+  <br>May Lower Cholesterol Levels
+  <br>Aids in Healthy Digestion
+  <br>Blood Sugar Regulation.
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Sunamukhi</h2>
+    <img class="img2" src="http://vskills.in/certification/blog/wp-content/uploads/2014/08/health-benefits-of-sonamukhi-plant-or-indian-senna.jpg" alt="Sunamukhi" width="400" height="200">
+  Benefits:
+  <br>used in the treatment of constipation
+  <br>purifies blood
+  <br>increases hunger levels.
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Guduchi </h2>
+    <img class="img1" src="https://gumlet.assettype.com/swarajya%2F2022-02%2Fd683e8d6-5ec0-4915-b24f-1c6dcc1ff558%2F810px_Tinospora_cordifolia.jpg?q=75&auto=format%2Ccompress&w=400&dpr=2.6" alt="guduchi" width="400" height="200">
+    Benefits:
+  <br>Balance blood sugar
+  <br>Relieve fever and spasms
+  <br>Promote joint health
+  <br>Reduce stress
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">YashtiMadhu</h2>
+    <img class="img2" src="https://cdn.shopify.com/s/files/1/0037/7690/5283/articles/Evidence-Based_ae3418c9-6171-4504-89c0-c4ca9f006afc_1024x400.jpg?v=1633520171" alt="yashtimadhu" width="400" height="200">
+    Benefits:
+  <br>Reduces Stress & Depression
+  <br>Controls Cholesterol and used in Weight Management
+  <br>Boosts Immunity and Treats Skin Disorders
+  <br>prevents Respiratory & Digestive Disorders.
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Ashwagandha</h2>
+    <img class="img1" src="https://static.toiimg.com/photo/msid-81950060/81950060.jpg?288952" alt="Ashwagandha" width="400" height="200">
+    Benefits:
+  <br>Improve brain function, including memory
+  <br>Reduce blood sugar levels
+  <br>Help improve sleep
+  <br>Reduce stress and anxiety.
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Hibiscus</h2>
+    <img class="img2" src="https://img.theculturetrip.com/wp-content/uploads/2018/03/shutterstock_772779919.jpg" alt="Hibiscus" width="400" height="200">
+    Benefits:
+  <br>Arrests hair fall and Rejuvenates hair
+  <br>Removes dandruff
+  <br>used for Anti-Ageing.
+  <br> 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Jambu beej</h2>
+    <img class="img1" src="https://i.etsystatic.com/34471030/r/il/646e1d/3767343693/il_340x270.3767343693_5hgf.jpg " alt="Jambu beej" width="400" height="200">
+    Benefits:
+  <br>Help Manage Diabetes
+  <br>Boosts Stomach Health 
+  <br>Helps Regulate Blood Pressure 
+  <br>Aids Weight Loss
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">kabasura kudineer</h2>
+    <img class="img2" src="https://i0.wp.com/nativespecial.com/wp-content/uploads/2019/11/Murungai-Ilai-Thotta-Podi-DP.jpg?resize=300%2C300&ssl=1" alt="kabasura kudineer" width="400" height="200">
+    Benefits:
+  <br>Boosts immunity 
+  <br>contains Anti-inflammatory, antipyretic, 
+  <br>and antibacterial properites
+  <br>Fights common health problems like cold, fever, weakness
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Sky Fruit</h2>
+    <img class="img1" src="https://abcdn.okchem.com/showroom/al/201905/2998/21f9fb8b65966a25999aac7ab0bd36a8.jpg" alt="Sky Fruit" width="400" height="200">
+    Benefits:
+  <br>Treats skin allergy 
+  <br>Useful in asthma treatment  
+  <br>Reduces cholesterol level 
+  <br>Increases appetite  
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Neem</h2>
+    <img class="img2" src="https://5.imimg.com/data5/SELLER/Default/2021/2/RS/VC/FI/941673/neem-leaf-powder-500x500.jpg" alt="Neem" width="400" height="200">
+    Benefits:
+  <br>reduce blood sugar levels
+  <br>heal ulcers in the digestive tract
+  <br>kill bacteria, and prevent plaque 
+  <br>from forming in the mouth. 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Cinnamon bark</h2>
+    <img class="img1" src="https://shop.perfumersapprentice.com/images/Product/large/8302.jpg" alt="Cinnamon bark" width="400" height="200">
+    Benefits:
+  <br>reduce spasms, reduce gas (flatulence)
+  <br>stimulate the appetite 
+  <br>increase blood flow 
+  <br>work like insulin to lower blood sugar 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Bhringraj</h2>
+    <img class="img2" src="https://5.imimg.com/data5/SELLER/Default/2021/10/GK/SP/QX/57790348/bhringraj-powder-500x500.jpg" alt="Bhringraj" width="400" height="200">
+    Benefits:
+  <br>prevent hair loss, dandruff, and graying 
+  <br>fight from memory loss
+  <br>cures headaches, and snake bite toxicity
+  <br>promots feelings of relaxation
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Palleru</h2>
+    <img class="img1" src="https://3.bp.blogspot.com/-woXDoU0xpis/W97AGfmJkgI/AAAAAAAAL74/LFt_Dc48YSk1j62o4zvRTD0L_GHwcCn3QCLcBGAs/s1600/Pallerukayaku.jpg" alt="Palleru" width="400" height="200">
+    Benefits:
+  <br>Prevents Urinary Problems 
+  <br>Improves liver function 
+  <br>Reduces body pains
+  <br>Removes intestinal gas 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Fenugreek</h2>
+    <img class="img2" src="https://5.imimg.com/data5/SELLER/Default/2020/9/FS/IC/YG/50836113/kalonji-powder-500x500.png" alt="Fenugreek" width="400" height="200">
+    Fenugreek may be able to help reduce the risk of:
+  <br>cancer,diabetes,obesity
+  <br>high cholesterol,high blood pressure
+  <br>heart conditions
+  <br>bacterial, fungal, and viral infections
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Henna</h2>
+    <img class="img1" src="https://5.imimg.com/data5/OQ/BX/MY-39153510/natural-henna-500x500.jpg" alt="Henna" width="400" height="200">
+    Benefits:
+  <br>Reduces dandruff and hair-fall related issues 
+  <br>Promotes Hair Growth 
+  <br>Regulates Oil Secretions 
+  <br>Prevents Premature Greying 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Punarnava</h2>
+    <img class="img2" src="https://assets.lybrate.com/q_auto:eco,f_auto,w_850/imgs/product/health-wiki/bpages/Benefits-Of-Punarnava.jpg" alt="Punarnava" width="400" height="200">
+    Benefits:
+  <br>fights obesity 
+  <br>good for diabetes
+  <br>prevents heart failure
+  <br>acts as remedy for urinary tract infections 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Pashana Bedhi</h2>
+    <img class="img1" src="https://qph.cf2.quoracdn.net/main-qimg-04cd979d26477bf59bc2664f28f94132-lq" alt="Pashana Bedhi" width="400" height="200">
+    Benefits:
+  <br>useful in piles, tumors, heart diseases 
+  <br>Prevents Stone Formation
+  <br>used to cure ulcers, ear pain  
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Talmakhana</h2>
+    <img class="img2" src="https://images.meesho.com/images/products/97492767/ovorb_512.jpg" alt="Talmakhana" width="400" height="200">
+    Benefits:
+  <br>Prevents Anxiety and Depression
+  <br>Remedies Pain And Inflammation 
+  <br>Improves Immunity
+  <br>Promotes Digestion
+ </div>
+
+ <br>
+
+ <div class="clearfix">
+     <h2 style="clear:right">Mahua</h2>
+     <img class="img1" src="https://cdn.theindianmed.com/wp-content/uploads/2020/07/06081426/mahua.jpg" alt="Mahua" width="400" height="200">
+     Benefits:
+   <br>cures stomach ulcers
+   <br>used for dental problems
+   <br>prevent heart diseases 
+   <br>cures fever and diabetes 
+ </div>
+ 
+ <br>
+
+ <div class="clearfix">
+     <h2 style="clear:right">Arjuna</h2>
+     <img class="img2" src="https://cdn.shopify.com/s/files/1/0203/2702/products/arjuna-bark-powder.jpg?v=1636717170" alt="Arjuna" width="400" height="200">
+     Benefits:
+   <br>Strong heart function and healthy circulation 
+   <br>Healthy flow of blood. 
+   <br>Emotional wellness 
+ </div>
+ 
+ <br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Trikatu</h2>
+    <img class="img1" src="https://www.ayurshop.in/image/cache/catalog/agastaya/trikatu%20churna%20ggast-500x500.jpg" alt="Trikatu" width="400" height="200">
+    Benefits:
+  <br>Promotes Digestion 
+  <br>Relieves Pain And Inflammation 
+  <br>Enhances Cardiac Functioning 
+  <br>Aids In Weight Loss 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Chia seeds</h2>
+    <img class="img2" src="https://cdn.britannica.com/75/181375-050-B1219B33/seeds-chia-plant-Mexico-Guatemala-Chia-coating.jpg" alt="Chia seeds" width="400" height="200">
+    Benefits:
+  <br> reduce high blood pressure 
+  <br>May help reduce inflammation 
+  <br>Benefits for heart health 
+  <br>Blood sugar control 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Multani</h2>
+    <img class="img1" src="https://images.indianexpress.com/2020/08/multani_1200.jpg" alt="Multani" width="400" height="200">
+    Benefits for the skin includs
+  <br>reducing oil 
+  <br>fighting acne. 
+  <br>balancing and brightening skin tone 
+  <br>reducing pigmentation. 
+</div>
+
+<br>
+
+<div class="clearfix">
+    <h2 style="clear:right">Bael</h2>
+    <img class="img2" src="https://hbkonline.in/media/catalog/product/cache/bea54340060e4b39c8cc57dcf47cfa2f/v/i/vilvam_ilai_podi.jpg" alt="Bael" width="400" height="200">
+    Benefits:
+  <br>treats tuberculosis, hepatitis 
+  <br>ulcer and digestive problems 
+  <br>strength of digestion 
+</div>
+
+
+
+
+
+
+  
+</body>
+</html>
