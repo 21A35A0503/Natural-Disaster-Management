@@ -3,13 +3,13 @@
 The Natural Disaters Management is an information portal about various natural disasters like Floods, stroms, Tsunami, Cyclones, Earthquakes, etc. And also necessary precautionaries to be taken during natural disaters.
 
 
-###This Web Based Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This Web Based Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Project Link(Github Repository Link)** - 
-**Project Demo URL** - 
+**Project Link(Github Repository Link)** - <br>
+**Project Demo URL** - <br>
 **Project Demo Video Link** - 
 
-##Project Description
+## Project Description
 
 The main idea of this project is create an Awareness on Natural Disasters.
 we developed an Information Portal On Natural Disaster Management where it contains info about Natural Disasters in Andhrapradesh, and preventive measures to be taken in case of Natural Disasters and Damages caused by the Natural Disaster. 
@@ -32,7 +32,7 @@ The Survey Page includes QnA about disaters.
 The HealthBot includes information about health issues occured at the time of natural disasters.
 
 
-##Features and Functionalities
+## Features and Functionalities
 
 
 - Interactive and responsive UI.
