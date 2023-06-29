@@ -5,8 +5,8 @@ The Natural Disaters Management is an information portal about various natural d
 
 ### This Web Based Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Project Link(Github Repository Link)** - <br>
-**Project Demo URL** - <br>
+**Project Link(Github Repository Link)** -  <br>
+**Project Demo URL** - https://agreeable-field-0c5ebde00.3.azurestaticapps.net/ <br>
 **Project Demo Video Link** - 
 
 ## Project Description
