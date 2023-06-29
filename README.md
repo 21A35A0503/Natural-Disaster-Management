@@ -50,4 +50,7 @@ The HealthBot includes information about health issues occured at the time of na
 
 ## Screenshots
 
-![home] 
+![home] (https://github.com/21A35A0503/Natural-Disaster-Management/blob/main/Assets/Screenshot%20(67).png)
+
+
+
