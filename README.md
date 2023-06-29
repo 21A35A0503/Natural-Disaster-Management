@@ -28,8 +28,8 @@ Another corner stone of the approach is that mitigation has to be multi-discipli
 
 This project contains Home Page which includes All Natural Disasters Information in each District of Andrapradesh.
 The Precautions Page Contains necessary precautions to be during natural disaster crises.
-The Survey Page includes QnA about disaters.
-The HealthBot includes information about health issues occured at the time of natural disasters.
+The Survey Page includes QnA about disasters.
+The HealthBot includes information about health issues occurred at the time of natural disasters.
 
 
 ## Features and Functionalities
