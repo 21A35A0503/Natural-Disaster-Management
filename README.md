@@ -7,7 +7,7 @@ The Natural Disasters Management is an information portal about various natural 
 
 **Project Link(Github Repository Link)** - https://github.com/21A35A0503/Natural-Disaster-Management.git  <br>
 **Project Demo URL** - https://agreeable-field-0c5ebde00.3.azurestaticapps.net/ <br>
-**Project Demo Video Link** - 
+**Project Demo Video Link** - https://youtu.be/bYFMw8Uy5V4
 
 ## Project Description
 
