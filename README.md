@@ -1,6 +1,6 @@
 # Natural-Disaster-Management
 
-The Natural Disaters Management is an information portal about various natural disasters like Floods, stroms, Tsunami, Cyclones, Earthquakes, etc. And also necessary precautionaries to be taken during natural disaters.
+The Natural Disasters Management is an information portal about various natural disasters like Floods, stroms, Tsunami, Cyclones, Earthquakes, etc. And also necessary precautionaries to be taken during natural disaters.
 
 
 ### This Web Based Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
