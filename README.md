@@ -51,7 +51,50 @@ The HealthBot includes information about health issues occured at the time of na
 ## Screenshots
 
 
-### Andhrapradesh Disaster Management -
+### Index -
+
+![Screenshot (67)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/b4f1afd0-d5e7-4924-a175-9826dff27b45)
+
+### AndhraPradesh Disaster MAnagement -
+![Screenshot (70)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/205f0b7e-94ea-45db-ab74-8ea0b47df571)
+
+### Srikakulam District Disaster Managemment -
+![Screenshot (68)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/5f6310e9-c7ad-42d4-8f0d-df28397c764d)
+
+### Vijayanagaram District Disaster Managemment -
+![Screenshot (69)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/b1931ddf-93ad-4e53-92eb-c5d4460fd3d9)
+
+### Precautions -
+![Screenshot (71)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/af720706-be85-4656-befb-ad2a0cac9668)
+
+### SurveyInfo -
+![Screenshot (72)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/d8a1a048-e96e-4349-9ed0-9f9c610351bf)
+
+### SurveyInfo -
+![Screenshot (73)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/a768f6ef-b721-4042-9977-aabed0275d9e)
+
+### SurveyInfo -
+![Screenshot (74)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/cebb9551-f44f-454e-8a4a-84efc1eaaae1)
+
+### Health Bot -
+![Screenshot (75)](https://github.com/21A35A0503/Natural-Disaster-Management/assets/109912115/f6a72c15-ebf7-4dcf-a47f-37791e14c5d7)
+
+## Tech Stack 💻
+
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Javascript
+
+## Team Members -
+### Harika Neela ([21a35a0503] (https://github.com/21a35a0503))
+### Ganga Ravi Priya Edida ([21a35a0502] (https://github.com/21a35a0502))
+### Surya Revathi Ainavilli ([21a35a0501] (https://github.com/21a35a0501))
+### Venkata Satya Aakash Yarrapragada ([20a31a0565] (https://github.com/20a31a0565))
+  
+
+
+
 
 
 
