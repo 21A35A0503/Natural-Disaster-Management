@@ -50,21 +50,10 @@ The HealthBot includes information about health issues occured at the time of na
 
 ## Screenshots
 
-![index] (https://github.com/21A35A0503/Natural-Disaster-Management/blob/main/Assets/Screenshot%20(67).png)
-
 
 ### Andhrapradesh Disaster Management -
 
-![ap] (https://github.com/21A35A0503/Natural-Disaster-Management/blob/main/Assets/Screenshot%20(70).png)
 
-###  Home1 -
-
-![srikakulam] (https://github.com/21A35A0503/Natural-Disaster-Management/blob/main/Assets/Screenshot%20(68).png)
-
-![vijayanagaram] (https://github.com/21A35A0503/Natural-Disaster-Management/blob/main/Assets/Screenshot%20(69).png)
-
-### Precautions -
-![Screenshot (71).png] (https://github.com/21A35A0503/Natural-Disaster-Management/blob/main/Assets/Screenshot%20(71).png)
 
 
 
