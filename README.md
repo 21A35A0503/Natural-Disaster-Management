@@ -87,10 +87,10 @@ The HealthBot includes information about health issues occurred at the time of n
 - Javascript
 
 ## Team Members -
-### Harika Neela ([21a35a0503] (https://github.com/21a35a0503))
-### Ganga Ravi Priya Edida ([21a35a0502] (https://github.com/21a35a0502))
-### Surya Revathi Ainavilli ([21a35a0501] (https://github.com/21a35a0501))
-### Venkata Satya Aakash Yarrapragada ([20a31a0565] (https://github.com/20a31a0565))
+### Harika Neela ([@21a35a0503] (https://github.com/21a35a0503))
+### Ganga Ravi Priya Edida ([@21a35a0502] (https://github.com/21a35a0502))
+### Surya Revathi Ainavilli ([@21a35a0501] (https://github.com/21a35a0501))
+### Venkata Satya Aakash Yarrapragada ([@20a31a0565] (https://github.com/20a31a0565))
   
 
 
